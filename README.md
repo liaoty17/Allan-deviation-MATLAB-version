@@ -34,4 +34,4 @@ Output:
         Column 2: max sigma
 Reference: Riley, W. and Howe, D. (2008), Handbook of Frequency Stability Analysis, Special Publication (NIST SP)... ```
 
-![pic] 
+![pic] (https://github.com/liaoty17/Allan-deviation-MATLAB-version/blob/main/test_data/ADEV.png)
