@@ -11,7 +11,8 @@ If you simply want to analyze your data using this program, it is recommended to
 
 Using example of Allan_ADEV:
 
-```[Out_tau, OADEV_Output, Out_ErrBar, alpha_memory] = Allan_OADEV(LiveData, tau0, Phase_or_Fre, tau,  Conf_interval, Noise_type)
+```
+[Out_tau, OADEV_Output, Out_ErrBar, alpha_memory] = Allan_OADEV(LiveData, tau0, Phase_or_Fre, tau,  Conf_interval, Noise_type)
 Input:
     LiveData : the data using for calculate the allan deviation, should be 1-D.
     tau0 : time interval.
@@ -32,5 +33,8 @@ Output:
     Out_ErrBar: 
         Column 1: Min sigma
         Column 2: max sigma
-Reference: Riley, W. and Howe, D. (2008), Handbook of Frequency Stability Analysis, Special Publication (NIST SP)... ```
+Reference: Riley, W. and Howe, D. (2008), Handbook of Frequency Stability Analysis, Special Publication (NIST SP)...
+```
+
+
 ![](https://github.com/liaoty17/Allan-deviation-MATLAB-version/blob/main/test_data/ADEV.png)
