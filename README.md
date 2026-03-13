@@ -33,3 +33,5 @@ Output:
         Column 1: Min sigma
         Column 2: max sigma
 Reference: Riley, W. and Howe, D. (2008), Handbook of Frequency Stability Analysis, Special Publication (NIST SP)... ```
+
+![pic] 
